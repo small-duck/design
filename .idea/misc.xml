@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/communication" />
+    <file type="web" url="file://$PROJECT_DIR$/designStudy" />
+    <file type="web" url="file://$PROJECT_DIR$/dubbo-client" />
+    <file type="web" url="file://$PROJECT_DIR$/dubbo-server/dubbo-api" />
+    <file type="web" url="file://$PROJECT_DIR$/dubbo-server/dubbo-impl" />
+    <file type="web" url="file://$PROJECT_DIR$/mybatisStudy" />
+    <file type="web" url="file://$PROJECT_DIR$/orm" />
+    <file type="web" url="file://$PROJECT_DIR$/spring1.0" />
+    <file type="web" url="file://$PROJECT_DIR$/spring2.0" />
+    <file type="web" url="file://$PROJECT_DIR$/zookeeper" />
+    <file type="web" url="file://$PROJECT_DIR$/zybatis1.0" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/zookeeper/pom.xml" />
+        <option value="$PROJECT_DIR$/multithread/pom.xml" />
+        <option value="$PROJECT_DIR$/jwt/pom.xml" />
+        <option value="$PROJECT_DIR$/shrio/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/communication/rmi原理分析/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-server/pom.xml" />
+        <option value="$PROJECT_DIR$/vuejs/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

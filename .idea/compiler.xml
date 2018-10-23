@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="designStudy" />
+        <module name="dubbo-api" />
+        <module name="dubboclient" />
+        <module name="dubboimpl" />
+        <module name="jwt" />
+        <module name="multithread" />
+        <module name="mybatisStudy" />
+        <module name="orm" />
+        <module name="shrio" />
+        <module name="spring1.0" />
+        <module name="spring2.0" />
+        <module name="vuejs" />
+        <module name="zookeeper" />
+        <module name="zybatis10" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dubbo-server" target="1.7" />
+      <module name="rmi原理分析server" target="1.7" />
+      <module name="vuejs" target="1.5" />
+      <module name="zookeeper系列" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

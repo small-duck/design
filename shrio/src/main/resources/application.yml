@@ -1,0 +1,13 @@
+
+spring:
+    application:
+        name: shiro
+    datasource:
+      hikari:
+        jdbc-url: jdbc:mysql://localhost:3306/shiro?useUnicode=true&characterEncoding=utf8&useSSL=false&zeroDateTimeBehavior=convertToNull&serverTimezone=GMT%2b8
+        username: root
+        password: root
+        pool-name: hikari-pool
+        maximum-pool-size: 5
+        connection-timeout: 30000
+
