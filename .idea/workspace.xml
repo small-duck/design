@@ -7,18 +7,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ec3b0ff-8f0c-45ca-bb02-cf4a7dbda748" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/resource/src/utils/1.0-SNAPSHOT/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/src/utils/1.0-SNAPSHOT/maven-metadata-maven-public.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/src/utils/1.0-SNAPSHOT/maven-metadata-maven-public.xml.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/src/utils/1.0-SNAPSHOT/resolver-status.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/src/utils/1.0-SNAPSHOT/tool-1.0-20180503.093706-5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/src/utils/1.0-SNAPSHOT/tool-1.0-20180503.093706-5.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/src/utils/1.0-SNAPSHOT/tool-1.0-20180503.093706-5.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/src/utils/1.0-SNAPSHOT/tool-1.0-20180503.093706-5.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/src/utils/1.0-SNAPSHOT/tool-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/src/utils/1.0-SNAPSHOT/tool-1.0-SNAPSHOT.pom" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/阿里云搭建https springboot版/src/main/java/com/example/demo/阿里云配置https/HttpsConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/communication/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/communication/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jwt/src/main/java/com/zy/jwt/utils/JwtUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/jwt/src/main/java/com/zy/jwt/utils/JwtUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatisStudy/mybatisStudy.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring1.0/spring1.0.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring2.0/spring2.0.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zookeeper/zookeeper.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -39,17 +39,14 @@
     <ignored path="$PROJECT_DIR$/jwt/target/" />
     <ignored path="$PROJECT_DIR$/shrio/target/" />
     <ignored path="$PROJECT_DIR$/vuejs/target/" />
+    <ignored path="$PROJECT_DIR$/aliyunhttps/target/" />
+    <ignored path="$PROJECT_DIR$/阿里云上搭建https服务/target/" />
+    <ignored path="$PROJECT_DIR$/阿里云搭建https springboot版/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="DatabaseLocalColorSettings">
-    <colors>
-      <entry key="5c3b9992-b5a8-46f2-b69b-48e2df8e8a07" value="Green" />
-    </colors>
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -70,15 +67,52 @@
     </expand>
     <select />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1696318892">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="3" />
+          <entry key="pom" value="1" />
+          <entry key="xml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="3" />
+          <entry key="XML" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="107" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="107" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="design" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DBConfig.java" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/shrio/src/main/java/com/zy/shrio/config/DBConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="810">
+            <state relative-caret-position="729">
               <caret line="44" column="74" selection-start-line="44" selection-start-column="74" selection-end-line="44" selection-end-column="74" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -89,10 +123,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BadCase.java" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/shrio/src/main/java/com/zy/shrio/config/BadCase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1740">
+            <state relative-caret-position="1566">
               <caret line="62" selection-start-line="62" selection-end-line="62" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -101,37 +135,50 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vuejs/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="19" column="60" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
+            <state relative-caret-position="1188">
+              <caret line="44" column="47" selection-start-line="44" selection-start-column="47" selection-end-line="44" selection-end-column="47" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AbstractQueuedSynchronizer.java" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/worker/java/jdk1.8/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jwt/src/main/java/com/zy/jwt/utils/JwtUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="28290">
-              <caret line="988" selection-start-line="988" selection-end-line="988" />
+            <state relative-caret-position="378">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/阿里云搭建https springboot版/src/main/java/com/example/demo/阿里云配置https/HttpsConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="417">
+              <caret line="50" column="83" selection-start-line="50" selection-start-column="83" selection-end-line="50" selection-end-column="83" />
+              <folding>
+                <element signature="e#870#1377#0" expanded="true" />
+                <element signature="e#1376#1377#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/shrio/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="108">
               <caret line="4" column="14" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ShrioApplication.java" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/shrio/src/main/java/com/zy/shrio/ShrioApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
+            <state relative-caret-position="216">
               <caret line="9" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="e#310#311#0" expanded="true" />
@@ -140,11 +187,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserResource.java" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jwt/src/main/java/com/zy/jwt/rest/UserResource.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1020">
-              <caret line="47" selection-start-line="47" selection-end-line="47" />
+            <state relative-caret-position="351">
+              <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -210,12 +257,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mybatisStudy/src/main/java/com/zy/mybatis/po/User.java" />
-        <option value="$PROJECT_DIR$/communication/src/main/java/com/zy/communication/serlir/ISerializ.java" />
-        <option value="$PROJECT_DIR$/communication/src/main/java/com/zy/communication/serlir/JavaSerilaizer.java" />
         <option value="$PROJECT_DIR$/communication/src/main/java/com/zy/communication/serlir/User.java" />
         <option value="$PROJECT_DIR$/communication/src/main/java/com/zy/communication/serlir/Examil.java" />
-        <option value="$PROJECT_DIR$/communication/pom.xml" />
         <option value="$PROJECT_DIR$/communication/src/main/java/com/zy/communication/serlir/XmlSerializer.java" />
         <option value="$PROJECT_DIR$/communication/src/main/java/com/zy/communication/test/JavaSerialTest.java" />
         <option value="$PROJECT_DIR$/communication/src/main/java/com/zy/communication/rmi原理分析/server/GPHello.java" />
@@ -253,7 +296,6 @@
         <option value="$PROJECT_DIR$/multithread/src/main/java/com/zy/multithreading/demo/CountDownLatchDemo/SemaphoreTest.java" />
         <option value="$PROJECT_DIR$/multithread/src/main/java/com/zy/multithreading/demo/CountDownLatchDemo/CountDown.java" />
         <option value="$PROJECT_DIR$/jwt/pom.xml" />
-        <option value="$PROJECT_DIR$/jwt/src/main/java/com/zy/jwt/utils/JwtUtils.java" />
         <option value="$PROJECT_DIR$/jwt/src/main/java/com/zy/jwt/rest/UserResource.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/shrio/pom.xml" />
@@ -261,6 +303,11 @@
         <option value="$PROJECT_DIR$/shrio/src/main/java/com/zy/shrio/config/DBConfig.java" />
         <option value="$PROJECT_DIR$/shrio/src/main/java/com/zy/shrio/config/BadCase.java" />
         <option value="$PROJECT_DIR$/vuejs/pom.xml" />
+        <option value="$PROJECT_DIR$/communication/pom.xml" />
+        <option value="$PROJECT_DIR$/jwt/src/main/java/com/zy/jwt/utils/JwtUtils.java" />
+        <option value="$PROJECT_DIR$/阿里云上搭建https服务/pom.xml" />
+        <option value="$PROJECT_DIR$/阿里云上搭建https服务/src/main/java/https资料/HttpsConfiguration.java" />
+        <option value="$PROJECT_DIR$/阿里云搭建https springboot版/src/main/java/com/example/demo/阿里云配置https/HttpsConfiguration.java" />
       </list>
     </option>
   </component>
@@ -280,9 +327,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="C:\Users\Administrator\.m2\repository" />
-        <option name="mavenHome" value="D:/worker/apache-maven-3.5.4-bin/apache-maven-3.5.4" />
-        <option name="userSettingsFile" value="C:\Users\Administrator\.m2\settings.xml" />
+        <option name="mavenHome" value="C:/Program Files/apps/work/apache-maven-3.5.4" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -300,47 +345,41 @@
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="dubbo-impl Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="communication Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="dubbo-impl Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="communication Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="dubbo-impl Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-          <item name="install" type="36feed69:MavenProjectsStructure$PluginNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="jwt" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="jwt" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="communication Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="jwt" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="orm Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
       </expand>
       <select />
     </treeState>
   </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="width" value="980" />
-    <option name="height" value="1040" />
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -348,10 +387,56 @@
               <item name="design" type="b2602c69:ProjectViewProjectNode" />
               <item name="design" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="design" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design" type="462c0819:PsiDirectoryNode" />
+              <item name="阿里云搭建https springboot版" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design" type="462c0819:PsiDirectoryNode" />
+              <item name="阿里云搭建https springboot版" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design" type="462c0819:PsiDirectoryNode" />
+              <item name="阿里云搭建https springboot版" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design" type="462c0819:PsiDirectoryNode" />
+              <item name="阿里云搭建https springboot版" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design" type="462c0819:PsiDirectoryNode" />
+              <item name="阿里云搭建https springboot版" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design" type="462c0819:PsiDirectoryNode" />
+              <item name="阿里云搭建https springboot版" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="阿里云配置https" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -363,16 +448,17 @@
     <property name="SearchEverywhereHistoryKey" value="ThreadPoolExecutor&#9;PSI&#9;JAVA://java.util.concurrent.ThreadPoolExecutor&#10;newFixedThreadPool&#9;PSI&#9;JAVA://java.util.concurrent.Executors#newFixedThreadPool&#10;se&#9;FILE&#9;jar://D:/worker/java/jdk1.8/src.zip!/java/util/concurrent/Semaphore.java&#10;countdownl&#9;PSI&#9;JAVA://java.util.concurrent.CountDownLatch&#10;condition&#9;PSI&#9;JAVA://java.util.concurrent.locks.Condition&#10;LockSupport&#9;FILE&#9;jar://D:/worker/java/jdk1.8/src.zip!/java/util/concurrent/locks/LockSupport.java&#10;reentrantread&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantReadWriteLock&#10;reentrantlock&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantLock&#10;lock&#9;FILE&#9;jar://D:/worker/java/jdk1.8/jre/lib/rt.jar!/java/util/concurrent/locks/Lock.class&#10;MethodInterceptor &#9;PSI&#9;JAVA://org.aopalliance.intercept.MethodInterceptor&#10;gpappl&#9;FILE&#9;file://E:/studySource/design/spring2.0/src/main/java/com/zy/spring/formework/context/GPApplicationContext.java&#10;gpap&#9;FILE&#9;file://E:/studySource/design/spring2.0/src/main/java/com/zy/spring/formework/context/GPApplicationContext.java&#10;classxm&#9;PSI&#9;JAVA://org.springframework.context.support.ClassPathXmlApplicationContext&#10;interceptorch&#9;PSI&#9;JAVA://org.apache.ibatis.plugin.InterceptorChain&#10;interce&#9;FILE&#9;jar://C:/Users/Administrator/.m2/repository/com/github/pagehelper/pagehelper/5.0.3/pagehelper-5.0.3.jar!/com/github/pagehelper/PageInterceptor.class&#10;sqlsessiont&#9;PSI&#9;JAVA://org.mybatis.spring.SqlSessionTemplate&#10;mapperscanr&#9;PSI&#9;JAVA://org.mybatis.spring.annotation.MapperScannerRegistrar&#10;mappers&#9;FILE&#9;jar://C:/Users/Administrator/.m2/repository/org/mybatis/mybatis-spring/1.3.0/mybatis-spring-1.3.0.jar!/org/mybatis/spring/annotation/MapperScan.class&#10;com.mysql.jdbc.Driver&#9;PSI&#9;JAVA://com.mysql.jdbc.Driver&#10;Driver&#9;PSI&#9;JAVA://java.sql.Driver&#10;driv&#9;PSI&#9;JAVA://java.sql.Driver&#10;basee&#9;FILE&#9;jar://C:/Users/Administrator/.m2/repository/org/mybatis/mybatis/3.4.1/mybatis-3.4.1-sources.jar!/org/apache/ibatis/executor/BaseExecutor.java&#10;fileinput&#9;PSI&#9;JAVA://java.io.FileInputStream&#10;inputs&#9;PSI&#9;JAVA://java.io.InputStream&#10;MapperProxy&#9;FILE&#9;jar://C:/Users/Administrator/.m2/repository/org/mybatis/mybatis/3.4.1/mybatis-3.4.1-sources.jar!/org/apache/ibatis/binding/MapperProxy.java&#10;SqlSessionFactoryBean&#9;FILE&#9;jar://C:/Users/Administrator/.m2/repository/org/mybatis/mybatis-spring/1.3.0/mybatis-spring-1.3.0.jar!/org/mybatis/spring/SqlSessionFactoryBean.class&#10;sqlsessionfactoryb&#9;PSI&#9;JAVA://org.mybatis.spring.mapper.ClassPathMapperScanner#sqlSessionFactoryBeanName&#10;sqlsessionfactorybean&#9;PSI&#9;JAVA://org.mybatis.spring.mapper.ClassPathMapperScanner#sqlSessionFactoryBeanName&#10;sqlsessionf&#9;FILE&#9;jar://C:/Users/Administrator/.m2/repository/org/mybatis/mybatis/3.4.1/mybatis-3.4.1.jar!/org/apache/ibatis/session/SqlSessionFactory.class" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540980725963" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -392,11 +478,11 @@
       <recent name="E:\studySource\design\spring2.0\src\main\java\com\zy\spring\formework\annotaiton" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.demo.阿里云配置https" />
+      <recent name="https资料" />
       <recent name="com.zy.communication.rmi原理分析.client" />
       <recent name="com.zy.communication.rmi原理分析.server" />
       <recent name="com.zy.spring.demo.aspect" />
-      <recent name="com.zy.mybatis.config" />
-      <recent name="com.zy.mybatisOne.zyMytatis" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.zy.communication.rmi原理分析.client" />
@@ -427,6 +513,9 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="BadCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zy.shrio.config.BadCase" />
@@ -438,6 +527,9 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="CountDown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zy.multithreading.demo.CountDownLatchDemo.CountDown" />
@@ -449,6 +541,9 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="LockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zy.multithreading.demo.lock.LockDemo" />
@@ -460,6 +555,9 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="SemaphoreTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zy.multithreading.demo.CountDownLatchDemo.SemaphoreTest" />
@@ -471,67 +569,71 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="阿里云搭建https springboot版" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="JwtApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="jwt" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.zy.jwt.JwtApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="JwtApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="jwt" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.zy.jwt.demo.JwtApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="MultithreadiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="multithread" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.zy.multithreading.demo.MultithreadiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="ShrioApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="shrio" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.zy.shrio.ShrioApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="ShrioApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="shrio" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.zy.shrio.shrio.ShrioApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.33" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8">
       <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
@@ -599,7 +701,8 @@
           <option name="PROGRAM_PARAMETERS" value="" />
         </SHUTDOWN>
       </ConfigurationWrapper>
-      <method>
+      <method v="2">
+        <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
           <artifact name="spring2.0:war exploded" />
         </option>
@@ -617,6 +720,7 @@
       <item itemvalue="Application.CountDown" />
       <item itemvalue="Application.SemaphoreTest" />
       <item itemvalue="Application.BadCase" />
+      <item itemvalue="Spring Boot.DemoApplication" />
     </list>
     <recent_temporary>
       <list>
@@ -686,6 +790,9 @@
       <workItem from="1539790037930" duration="422000" />
       <workItem from="1539864747701" duration="1614000" />
       <workItem from="1540307205892" duration="331000" />
+      <workItem from="1540345428756" duration="1985000" />
+      <workItem from="1540866408080" duration="1944000" />
+      <workItem from="1540946997918" duration="3825000" />
     </task>
     <servers />
   </component>
@@ -722,46 +829,47 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="274913000" />
+    <option name="totallyTimeSpent" value="282667000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32890856" />
-      <window_info anchor="bottom" id="Application Servers" order="8" weight="0.6356932" />
-      <window_info anchor="right" id="Maven Projects" order="3" weight="0.3264177" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48820058" visible="true" weight="0.1359275" />
       <window_info id="Capture Tool" order="1" />
       <window_info id="Designer" order="2" />
-      <window_info anchor="right" id="Database" order="3" weight="0.33042896" />
-      <window_info id="Structure" order="7" sideWeight="0.5117994" side_tool="true" weight="0.36325967" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5294985" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="4" />
-      <window_info anchor="bottom" id="Java Enterprise" order="10" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.45575222" />
-      <window_info anchor="bottom" id="Spring" order="13" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.32791728" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48820058" visible="true" weight="0.13672923" />
-      <window_info anchor="right" id="Bean Validation" order="4" weight="0.3297587" />
       <window_info id="Web" order="5" sideWeight="0.5117994" side_tool="true" weight="0.36461127" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="6" sideWeight="0.5117994" side_tool="true" weight="0.36461127" />
-      <window_info anchor="bottom" id="Dependency Viewer" order="9" weight="0.32985073" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Database Console" order="9" weight="0.6504425" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="9" visible="true" weight="0.32890856" />
+      <window_info id="Structure" order="7" sideWeight="0.5117994" side_tool="true" weight="0.36325967" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.5131397" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3318584" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.45575222" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5294985" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32890856" />
+      <window_info anchor="bottom" id="Application Servers" order="8" weight="0.6356932" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Console" order="10" weight="0.6504425" />
+      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.32887402" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="12" weight="0.32985073" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Terminal" order="15" weight="0.32441473" />
+      <window_info anchor="bottom" id="Spring" order="16" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.5131397" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32622603" />
+      <window_info anchor="right" id="Database" order="6" weight="0.33042896" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.3297587" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -962,7 +1070,6 @@
           <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="118" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
@@ -1015,48 +1122,7 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/com/zy/multithreading/demo/MultithreadiApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/com/zy/multithreading/demo/CallableDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/com/zy/multithreading/demo/ThreadStatus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="38" column="60" selection-start-line="38" selection-start-column="60" selection-end-line="38" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/com/zy/multithreading/demo/InterruptDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/com/zy/multithreading/demo/VolatieDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/worker/java/jdk1.8/jre/lib/rt.jar!/java/util/concurrent/locks/Lock.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://D:/worker/java/jdk1.8/jre/lib/rt.jar!/java/util/concurrent/locks/Lock.class" />
     <entry file="file://$PROJECT_DIR$/multithread/src/main/java/com/zy/multithreading/demo/lock/AtomicDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-226">
@@ -1064,13 +1130,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/worker/java/jdk1.8/src.zip!/java/util/concurrent/locks/ReentrantReadWriteLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1808">
-          <caret line="214" column="13" selection-start-line="214" selection-start-column="13" selection-end-line="214" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://D:/worker/java/jdk1.8/src.zip!/java/util/concurrent/locks/ReentrantReadWriteLock.java" />
     <entry file="file://$PROJECT_DIR$/multithread/src/main/java/com/zy/multithreading/demo/lock/LockThreadDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
@@ -1078,13 +1138,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/worker/java/jdk1.8/src.zip!/java/util/concurrent/locks/Lock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="183" column="9" selection-start-line="183" selection-start-column="9" selection-end-line="183" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://D:/worker/java/jdk1.8/src.zip!/java/util/concurrent/locks/Lock.java" />
     <entry file="file://$PROJECT_DIR$/multithread/src/main/java/com/zy/multithreading/demo/lock/LockDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="314">
@@ -1092,42 +1146,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/worker/java/jdk1.8/jre/lib/rt.jar!/sun/misc/Unsafe.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-43">
-          <caret line="303" column="32" selection-start-line="303" selection-start-column="32" selection-end-line="303" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://D:/worker/java/jdk1.8/jre/lib/rt.jar!/sun/misc/Unsafe.class" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/jboss/netty/netty/3.2.5.Final/netty-3.2.5.Final.jar!/org/jboss/netty/util/internal/NonReentrantLock.class" />
-    <entry file="jar://D:/worker/java/jdk1.8/src.zip!/java/util/concurrent/locks/LockSupport.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="141" column="5" lean-forward="true" selection-start-line="141" selection-start-column="5" selection-end-line="141" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/worker/java/jdk1.8/src.zip!/java/util/concurrent/locks/AbstractOwnableSynchronizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="83" column="26" lean-forward="true" selection-start-line="83" selection-start-column="26" selection-end-line="83" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/worker/java/jdk1.8/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="163" column="33" lean-forward="true" selection-start-line="163" selection-start-column="33" selection-end-line="163" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/worker/java/jdk1.8/src.zip!/java/util/concurrent/locks/Condition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="531">
-          <caret line="485" column="15" selection-start-line="485" selection-start-column="9" selection-end-line="485" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://D:/worker/java/jdk1.8/src.zip!/java/util/concurrent/locks/LockSupport.java" />
+    <entry file="jar://D:/worker/java/jdk1.8/src.zip!/java/util/concurrent/locks/AbstractOwnableSynchronizer.java" />
+    <entry file="jar://D:/worker/java/jdk1.8/src.zip!/java/util/concurrent/locks/ReentrantLock.java" />
+    <entry file="jar://D:/worker/java/jdk1.8/src.zip!/java/util/concurrent/locks/Condition.java" />
     <entry file="file://$PROJECT_DIR$/multithread/src/main/java/com/zy/multithreading/demo/CountDownLatchDemo/SemaphoreTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="284">
@@ -1135,79 +1159,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/worker/java/jdk1.8/src.zip!/java/util/concurrent/Semaphore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="194" column="13" lean-forward="true" selection-start-line="194" selection-start-column="13" selection-end-line="194" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/worker/java/jdk1.8/src.zip!/java/util/concurrent/TimeUnit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="104" column="4" selection-start-line="104" selection-start-column="4" selection-end-line="104" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/worker/java/jdk1.8/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="62" column="38" selection-start-line="62" selection-start-column="38" selection-end-line="62" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/worker/java/jdk1.8/src.zip!/java/util/concurrent/LinkedBlockingQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6180">
-          <caret line="249" column="24" selection-start-line="249" selection-start-column="24" selection-end-line="249" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/worker/java/jdk1.8/src.zip!/java/util/concurrent/AbstractExecutorService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1110">
-          <caret line="70" column="68" selection-start-line="70" selection-start-column="68" selection-end-line="70" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/worker/java/jdk1.8/jre/lib/rt.jar!/com/sun/xml/internal/ws/api/server/ThreadLocalContainerResolver.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://D:/worker/java/jdk1.8/src.zip!/java/util/concurrent/Executors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2460">
-          <caret line="123" column="17" selection-start-line="123" selection-start-column="17" selection-end-line="123" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/worker/java/jdk1.8/src.zip!/java/util/concurrent/BlockingQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5490">
-          <caret line="217" column="12" selection-start-line="217" selection-start-column="12" selection-end-line="217" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/worker/java/jdk1.8/src.zip!/java/util/concurrent/ExecutorService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6030">
-          <caret line="235" column="18" selection-start-line="235" selection-start-column="18" selection-end-line="235" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/worker/java/jdk1.8/src.zip!/java/util/concurrent/Executor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3180">
-          <caret line="139" column="9" selection-start-line="139" selection-start-column="9" selection-end-line="139" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/worker/java/jdk1.8/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="829" column="27" selection-start-line="829" selection-start-column="27" selection-end-line="829" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://D:/worker/java/jdk1.8/src.zip!/java/util/concurrent/Semaphore.java" />
+    <entry file="jar://D:/worker/java/jdk1.8/src.zip!/java/util/concurrent/TimeUnit.java" />
+    <entry file="jar://D:/worker/java/jdk1.8/src.zip!/java/lang/Integer.java" />
+    <entry file="jar://D:/worker/java/jdk1.8/src.zip!/java/util/concurrent/LinkedBlockingQueue.java" />
+    <entry file="jar://D:/worker/java/jdk1.8/src.zip!/java/util/concurrent/AbstractExecutorService.java" />
+    <entry file="jar://D:/worker/java/jdk1.8/jre/lib/rt.jar!/com/sun/xml/internal/ws/api/server/ThreadLocalContainerResolver.class" />
+    <entry file="jar://D:/worker/java/jdk1.8/src.zip!/java/util/concurrent/Executors.java" />
+    <entry file="jar://D:/worker/java/jdk1.8/src.zip!/java/util/concurrent/BlockingQueue.java" />
+    <entry file="jar://D:/worker/java/jdk1.8/src.zip!/java/util/concurrent/ExecutorService.java" />
+    <entry file="jar://D:/worker/java/jdk1.8/src.zip!/java/util/concurrent/Executor.java" />
+    <entry file="jar://D:/worker/java/jdk1.8/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" />
     <entry file="file://$PROJECT_DIR$/multithread/src/main/java/com/zy/multithreading/demo/CountDownLatchDemo/CountDown.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -1230,13 +1192,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/worker/java/jdk1.8/src.zip!/java/util/concurrent/CountDownLatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-334">
-          <caret line="170" lean-forward="true" selection-start-line="170" selection-end-line="171" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://D:/worker/java/jdk1.8/src.zip!/java/util/concurrent/CountDownLatch.java" />
     <entry file="file://$PROJECT_DIR$/jwt/src/main/java/com/zy/jwt/domain/request/UserRequest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -1245,37 +1201,10 @@
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.9.RELEASE/spring-web-5.0.9.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class" />
-    <entry file="file://$PROJECT_DIR$/jwt/src/main/java/com/zy/jwt/utils/JwtUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jwt/src/main/java/com/zy/jwt/rest/UserResource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="193">
           <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="37" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shrio/src/main/java/com/zy/shrio/ShrioApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#310#311#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1286,26 +1215,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/worker/java/jdk1.8/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28290">
-          <caret line="988" selection-start-line="988" selection-end-line="988" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://D:/worker/java/jdk1.8/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/io/jsonwebtoken/jjwt/0.9.0/jjwt-0.9.0-sources.jar!/io/jsonwebtoken/JwtParser.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/com/zaxxer/HikariCP/2.7.9/HikariCP-2.7.9.jar!/com/zaxxer/hikari/HikariDataSource.class" />
     <entry file="jar://$MAVEN_REPOSITORY$/com/zaxxer/HikariCP/2.7.9/HikariCP-2.7.9.jar!/com/zaxxer/hikari/HikariConfig.class" />
-    <entry file="file://$PROJECT_DIR$/shrio/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/resource/src/utils/1.0-SNAPSHOT/_remote.repositories">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/communication/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="14" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="14" />
+        <state relative-caret-position="216">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/shrio/src/main/java/com/zy/shrio/config/DBConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
+        <state relative-caret-position="729">
           <caret line="44" column="74" selection-start-line="44" selection-start-column="74" selection-end-line="44" selection-end-column="74" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1317,7 +1243,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/shrio/src/main/java/com/zy/shrio/config/BadCase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1740">
+        <state relative-caret-position="1566">
           <caret line="62" selection-start-line="62" selection-end-line="62" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1325,18 +1251,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resource/src/utils/1.0-SNAPSHOT/_remote.repositories">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/src/utils/1.0-SNAPSHOT/tool-1.0-20180503.093706-5.pom">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-47" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vuejs/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="19" column="60" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
+        <state relative-caret-position="1188">
+          <caret line="44" column="47" selection-start-line="44" selection-start-column="47" selection-end-line="44" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shrio/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shrio/src/main/java/com/zy/shrio/ShrioApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#310#311#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jwt/src/main/java/com/zy/jwt/rest/UserResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/src/utils/1.0-SNAPSHOT/tool-1.0-20180503.093706-5.pom">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aliyunhttps/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/阿里云上搭建https服务/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="n#dependencies#0;n#project#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/阿里云上搭建https服务/src/main/java/https资料/HttpsConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+          <folding>
+            <element signature="e#869#1394#0" expanded="true" />
+            <element signature="e#1393#1394#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jwt/src/main/java/com/zy/jwt/utils/JwtUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/阿里云搭建https springboot版/src/main/java/com/example/demo/阿里云配置https/HttpsConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="50" column="83" selection-start-line="50" selection-start-column="83" selection-end-line="50" selection-end-column="83" />
+          <folding>
+            <element signature="e#870#1377#0" expanded="true" />
+            <element signature="e#1376#1377#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1417,7 +1407,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: com.alibaba:druid:1.1.10</last-edited>
+          <last-edited>Maven: javax.persistence:persistence-api:1.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

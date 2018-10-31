@@ -25,6 +25,8 @@
         <module>vuejs</module>
         <module>vuejs</module>
         <module>vuejs</module>
+        <module>aliyunhttps</module>
+        <module>阿里云上搭建https服务</module>
     </modules>
 
     <properties>

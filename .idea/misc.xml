@@ -13,6 +13,7 @@
     <file type="web" url="file://$PROJECT_DIR$/spring2.0" />
     <file type="web" url="file://$PROJECT_DIR$/zookeeper" />
     <file type="web" url="file://$PROJECT_DIR$/zybatis1.0" />
+    <file type="web" url="file://$PROJECT_DIR$/阿里云上搭建https服务" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -22,13 +23,16 @@
         <option value="$PROJECT_DIR$/multithread/pom.xml" />
         <option value="$PROJECT_DIR$/jwt/pom.xml" />
         <option value="$PROJECT_DIR$/shrio/pom.xml" />
+        <option value="$PROJECT_DIR$/阿里云搭建https springboot版/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/aliyunhttps/pom.xml" />
         <option value="$PROJECT_DIR$/communication/rmi原理分析/pom.xml" />
         <option value="$PROJECT_DIR$/dubbo-server/pom.xml" />
         <option value="$PROJECT_DIR$/vuejs/pom.xml" />
+        <option value="$PROJECT_DIR$/阿里云上搭建https服务/pom.xml" />
       </set>
     </option>
   </component>

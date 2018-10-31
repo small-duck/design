@@ -35,6 +35,7 @@ public class JwtUtils {
         return builder.compact();
     }
 
+
     private static Key generatorKey(){
         SignatureAlgorithm saa=SignatureAlgorithm.HS256;
         byte[] bin=DatatypeConverter.parseBase64Binary

@@ -16,7 +16,7 @@
     <!-- FIXME change it to the project's website -->
     <url>http://www.example.com</url>
     <modules>
-        <module>rmi原理分析</module>
+        <module></module>
     </modules>
 
     <properties>

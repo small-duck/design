@@ -6,8 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="demo (1) (com.zy.jwt)" />
+        <module name="demo (2) (com.zy.multithreading)" />
         <module name="designStudy" />
         <module name="dubbo-api" />
+        <module name="dubbo-client" />
+        <module name="dubbo-impl" />
         <module name="dubboclient" />
         <module name="dubboimpl" />
         <module name="jwt" />
@@ -19,14 +23,18 @@
         <module name="spring2.0" />
         <module name="vuejs" />
         <module name="zookeeper" />
+        <module name="zybatis1.0" />
         <module name="zybatis10" />
+        <module name="阿里云搭建https springboot版" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="aliyunhttps" target="1.5" />
       <module name="dubbo-server" target="1.7" />
       <module name="rmi原理分析server" target="1.7" />
       <module name="vuejs" target="1.5" />
       <module name="zookeeper系列" target="1.5" />
+      <module name="阿里云上搭建https服务" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
