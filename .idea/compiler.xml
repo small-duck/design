@@ -14,6 +14,7 @@
         <module name="dubbo-impl" />
         <module name="dubboclient" />
         <module name="dubboimpl" />
+        <module name="jpaProject" />
         <module name="jwt" />
         <module name="multithread" />
         <module name="mybatisStudy" />

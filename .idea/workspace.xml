@@ -6,19 +6,15 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ec3b0ff-8f0c-45ca-bb02-cf4a7dbda748" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/阿里云搭建https springboot版/src/main/java/com/example/demo/阿里云配置https/HttpsConfiguration.java" afterDir="false" />
+    <list default="true" id="6ec3b0ff-8f0c-45ca-bb02-cf4a7dbda748" name="Default" comment="添加阿里云配置">
+      <change afterPath="$PROJECT_DIR$/jpaProject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jpaProject/src/main/java/com/zy/jpa/configur/DbConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot打为jar包之后能够访问jsp的pom为" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/communication/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/communication/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jwt/src/main/java/com/zy/jwt/utils/JwtUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/jwt/src/main/java/com/zy/jwt/utils/JwtUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatisStudy/mybatisStudy.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring1.0/spring1.0.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring2.0/spring2.0.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zookeeper/zookeeper.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -42,6 +38,7 @@
     <ignored path="$PROJECT_DIR$/aliyunhttps/target/" />
     <ignored path="$PROJECT_DIR$/阿里云上搭建https服务/target/" />
     <ignored path="$PROJECT_DIR$/阿里云搭建https springboot版/target/" />
+    <ignored path="$PROJECT_DIR$/jpaProject/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,35 +68,41 @@
     <session id="1696318892">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.3" value="2" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="3" />
+          <entry key="java" value="5" />
           <entry key="pom" value="1" />
-          <entry key="xml" value="3" />
+          <entry key="springboot打为jar包之后能够访问jsp的pom为" value="1" />
+          <entry key="xml" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="3" />
-          <entry key="XML" value="4" />
+          <entry key="JAVA" value="5" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="XML" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="107" />
-          <entry key="xml" value="2" />
+          <entry key="txt" value="7" />
+          <entry key="xml" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="107" />
-          <entry key="XML" value="2" />
+          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="XML" value="6" />
         </counts>
       </usages-collector>
     </session>
@@ -109,32 +112,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shrio/src/main/java/com/zy/shrio/config/DBConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="729">
-              <caret line="44" column="74" selection-start-line="44" selection-start-column="74" selection-end-line="44" selection-end-column="74" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1104#1105#0" expanded="true" />
-                <element signature="e#1190#1191#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shrio/src/main/java/com/zy/shrio/config/BadCase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1566">
-              <caret line="62" selection-start-line="62" selection-end-line="62" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vuejs/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
@@ -147,23 +124,51 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jwt/src/main/java/com/zy/jwt/utils/JwtUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
+            <state relative-caret-position="702">
               <caret line="37" selection-start-line="37" selection-end-line="37" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/阿里云搭建https springboot版/src/main/java/com/example/demo/阿里云配置https/HttpsConfiguration.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="417">
+            <state relative-caret-position="1080">
               <caret line="50" column="83" selection-start-line="50" selection-start-column="83" selection-end-line="50" selection-end-column="83" />
-              <folding>
-                <element signature="e#870#1377#0" expanded="true" />
-                <element signature="e#1376#1377#0" expanded="true" />
-              </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/阿里云搭建https springboot版/src/main/java/com/example/demo/DemoApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jpaProject/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="594">
+              <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/springboot打为jar包之后能够访问jsp的pom为">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2113">
+              <caret line="248" lean-forward="true" selection-start-line="248" selection-end-line="248" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jpaProject/src/main/java/com/zy/jpa/configur/DbConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -257,9 +262,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/communication/src/main/java/com/zy/communication/serlir/User.java" />
-        <option value="$PROJECT_DIR$/communication/src/main/java/com/zy/communication/serlir/Examil.java" />
-        <option value="$PROJECT_DIR$/communication/src/main/java/com/zy/communication/serlir/XmlSerializer.java" />
         <option value="$PROJECT_DIR$/communication/src/main/java/com/zy/communication/test/JavaSerialTest.java" />
         <option value="$PROJECT_DIR$/communication/src/main/java/com/zy/communication/rmi原理分析/server/GPHello.java" />
         <option value="$PROJECT_DIR$/communication/src/main/java/com/zy/communication/rmi原理分析/server/GPHelloImpl.java" />
@@ -308,6 +310,9 @@
         <option value="$PROJECT_DIR$/阿里云上搭建https服务/pom.xml" />
         <option value="$PROJECT_DIR$/阿里云上搭建https服务/src/main/java/https资料/HttpsConfiguration.java" />
         <option value="$PROJECT_DIR$/阿里云搭建https springboot版/src/main/java/com/example/demo/阿里云配置https/HttpsConfiguration.java" />
+        <option value="$PROJECT_DIR$/jpaProject/src/main/java/com/zy/jpa/configur/DbConfiguration.java" />
+        <option value="$PROJECT_DIR$/jpaProject/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot打为jar包之后能够访问jsp的pom为" />
       </list>
     </option>
   </component>
@@ -371,7 +376,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="953" />
+    <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -387,57 +392,12 @@
               <item name="design" type="b2602c69:ProjectViewProjectNode" />
               <item name="design" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="阿里云搭建https springboot版" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="阿里云搭建https springboot版" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="阿里云搭建https springboot版" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="阿里云搭建https springboot版" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="阿里云搭建https springboot版" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="阿里云搭建https springboot版" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="阿里云配置https" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -448,24 +408,23 @@
     <property name="SearchEverywhereHistoryKey" value="ThreadPoolExecutor&#9;PSI&#9;JAVA://java.util.concurrent.ThreadPoolExecutor&#10;newFixedThreadPool&#9;PSI&#9;JAVA://java.util.concurrent.Executors#newFixedThreadPool&#10;se&#9;FILE&#9;jar://D:/worker/java/jdk1.8/src.zip!/java/util/concurrent/Semaphore.java&#10;countdownl&#9;PSI&#9;JAVA://java.util.concurrent.CountDownLatch&#10;condition&#9;PSI&#9;JAVA://java.util.concurrent.locks.Condition&#10;LockSupport&#9;FILE&#9;jar://D:/worker/java/jdk1.8/src.zip!/java/util/concurrent/locks/LockSupport.java&#10;reentrantread&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantReadWriteLock&#10;reentrantlock&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantLock&#10;lock&#9;FILE&#9;jar://D:/worker/java/jdk1.8/jre/lib/rt.jar!/java/util/concurrent/locks/Lock.class&#10;MethodInterceptor &#9;PSI&#9;JAVA://org.aopalliance.intercept.MethodInterceptor&#10;gpappl&#9;FILE&#9;file://E:/studySource/design/spring2.0/src/main/java/com/zy/spring/formework/context/GPApplicationContext.java&#10;gpap&#9;FILE&#9;file://E:/studySource/design/spring2.0/src/main/java/com/zy/spring/formework/context/GPApplicationContext.java&#10;classxm&#9;PSI&#9;JAVA://org.springframework.context.support.ClassPathXmlApplicationContext&#10;interceptorch&#9;PSI&#9;JAVA://org.apache.ibatis.plugin.InterceptorChain&#10;interce&#9;FILE&#9;jar://C:/Users/Administrator/.m2/repository/com/github/pagehelper/pagehelper/5.0.3/pagehelper-5.0.3.jar!/com/github/pagehelper/PageInterceptor.class&#10;sqlsessiont&#9;PSI&#9;JAVA://org.mybatis.spring.SqlSessionTemplate&#10;mapperscanr&#9;PSI&#9;JAVA://org.mybatis.spring.annotation.MapperScannerRegistrar&#10;mappers&#9;FILE&#9;jar://C:/Users/Administrator/.m2/repository/org/mybatis/mybatis-spring/1.3.0/mybatis-spring-1.3.0.jar!/org/mybatis/spring/annotation/MapperScan.class&#10;com.mysql.jdbc.Driver&#9;PSI&#9;JAVA://com.mysql.jdbc.Driver&#10;Driver&#9;PSI&#9;JAVA://java.sql.Driver&#10;driv&#9;PSI&#9;JAVA://java.sql.Driver&#10;basee&#9;FILE&#9;jar://C:/Users/Administrator/.m2/repository/org/mybatis/mybatis/3.4.1/mybatis-3.4.1-sources.jar!/org/apache/ibatis/executor/BaseExecutor.java&#10;fileinput&#9;PSI&#9;JAVA://java.io.FileInputStream&#10;inputs&#9;PSI&#9;JAVA://java.io.InputStream&#10;MapperProxy&#9;FILE&#9;jar://C:/Users/Administrator/.m2/repository/org/mybatis/mybatis/3.4.1/mybatis-3.4.1-sources.jar!/org/apache/ibatis/binding/MapperProxy.java&#10;SqlSessionFactoryBean&#9;FILE&#9;jar://C:/Users/Administrator/.m2/repository/org/mybatis/mybatis-spring/1.3.0/mybatis-spring-1.3.0.jar!/org/mybatis/spring/SqlSessionFactoryBean.class&#10;sqlsessionfactoryb&#9;PSI&#9;JAVA://org.mybatis.spring.mapper.ClassPathMapperScanner#sqlSessionFactoryBeanName&#10;sqlsessionfactorybean&#9;PSI&#9;JAVA://org.mybatis.spring.mapper.ClassPathMapperScanner#sqlSessionFactoryBeanName&#10;sqlsessionf&#9;FILE&#9;jar://C:/Users/Administrator/.m2/repository/org/mybatis/mybatis/3.4.1/mybatis-3.4.1.jar!/org/apache/ibatis/session/SqlSessionFactory.class" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540980725963" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541493698283" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\studySource\design\mybatisStudy\src\main\java\com\zy\mybatis\dao" />
-      <recent name="E:\studySource\design\mybatisStudy\src\main\resources" />
-      <recent name="E:\studySource\design\mybatisStudy\src\main\test\java" />
-      <recent name="E:\studySource\design\mybatisStudy\src\main\test\com.zy.mybatis" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.zy.communication.rmi原理分析.client" />
+      <recent name="com.zy.communication.rmi原理分析.server" />
+      <recent name="com.zy.spring.formework.webmvc" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.zy.orm" />
@@ -478,16 +437,17 @@
       <recent name="E:\studySource\design\spring2.0\src\main\java\com\zy\spring\formework\annotaiton" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zy.jpa.configur" />
       <recent name="com.example.demo.阿里云配置https" />
       <recent name="https资料" />
       <recent name="com.zy.communication.rmi原理分析.client" />
       <recent name="com.zy.communication.rmi原理分析.server" />
-      <recent name="com.zy.spring.demo.aspect" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.zy.communication.rmi原理分析.client" />
-      <recent name="com.zy.communication.rmi原理分析.server" />
-      <recent name="com.zy.spring.formework.webmvc" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\studySource\design\mybatisStudy\src\main\java\com\zy\mybatis\dao" />
+      <recent name="E:\studySource\design\mybatisStudy\src\main\resources" />
+      <recent name="E:\studySource\design\mybatisStudy\src\main\test\java" />
+      <recent name="E:\studySource\design\mybatisStudy\src\main\test\com.zy.mybatis" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -715,12 +675,12 @@
       <item itemvalue="Spring Boot.JwtApplication (1)" />
       <item itemvalue="Spring Boot.ShrioApplication" />
       <item itemvalue="Spring Boot.ShrioApplication (1)" />
+      <item itemvalue="Spring Boot.DemoApplication" />
       <item itemvalue="Application.AtomicDemo" />
       <item itemvalue="Application.LockDemo" />
       <item itemvalue="Application.CountDown" />
       <item itemvalue="Application.SemaphoreTest" />
       <item itemvalue="Application.BadCase" />
-      <item itemvalue="Spring Boot.DemoApplication" />
     </list>
     <recent_temporary>
       <list>
@@ -792,8 +752,19 @@
       <workItem from="1540307205892" duration="331000" />
       <workItem from="1540345428756" duration="1985000" />
       <workItem from="1540866408080" duration="1944000" />
-      <workItem from="1540946997918" duration="3825000" />
+      <workItem from="1540946997918" duration="4301000" />
+      <workItem from="1541034678646" duration="877000" />
+      <workItem from="1541057957712" duration="1282000" />
+      <workItem from="1541493324015" duration="363000" />
     </task>
+    <task id="LOCAL-00001" summary="添加阿里云配置">
+      <created>1540980757593</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1540980757593</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -829,13 +800,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="282667000" />
+    <option name="totallyTimeSpent" value="285665000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48820058" visible="true" weight="0.1359275" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48820058" visible="true" weight="0.18869936" />
       <window_info id="Capture Tool" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -854,10 +825,10 @@
       <window_info anchor="bottom" id="Application Servers" order="8" weight="0.6356932" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Console" order="10" weight="0.6504425" />
-      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.32887402" />
+      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.32887402" />
       <window_info anchor="bottom" id="Dependency Viewer" order="12" weight="0.32985073" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.32664436" />
       <window_info anchor="bottom" id="Terminal" order="15" weight="0.32441473" />
       <window_info anchor="bottom" id="Spring" order="16" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -877,6 +848,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="添加阿里云配置" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加阿里云配置" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1122,22 +1097,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://D:/worker/java/jdk1.8/jre/lib/rt.jar!/java/util/concurrent/locks/Lock.class" />
-    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/com/zy/multithreading/demo/lock/AtomicDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-226">
-          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/worker/java/jdk1.8/src.zip!/java/util/concurrent/locks/ReentrantReadWriteLock.java" />
-    <entry file="file://$PROJECT_DIR$/multithread/src/main/java/com/zy/multithreading/demo/lock/LockThreadDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/worker/java/jdk1.8/src.zip!/java/util/concurrent/locks/Lock.java" />
     <entry file="file://$PROJECT_DIR$/multithread/src/main/java/com/zy/multithreading/demo/lock/LockDemo.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1229,6 +1188,12 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/resource/src/utils/1.0-SNAPSHOT/tool-1.0-20180503.093706-5.pom">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aliyunhttps/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/阿里云上搭建https服务/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/阿里云上搭建https服务/src/main/java/https资料/HttpsConfiguration.java" />
     <entry file="file://$PROJECT_DIR$/shrio/src/main/java/com/zy/shrio/config/DBConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="729">
@@ -1255,6 +1220,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1188">
           <caret line="44" column="47" selection-start-line="44" selection-start-column="47" selection-end-line="44" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jwt/src/main/java/com/zy/jwt/utils/JwtUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/阿里云搭建https springboot版/src/main/java/com/example/demo/阿里云配置https/HttpsConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="50" column="83" selection-start-line="50" selection-start-column="83" selection-end-line="50" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/阿里云搭建https springboot版/src/main/java/com/example/demo/DemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1285,48 +1271,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resource/src/utils/1.0-SNAPSHOT/tool-1.0-20180503.093706-5.pom">
+    <entry file="file://$PROJECT_DIR$/jpaProject/src/main/java/com/zy/jpa/configur/DbConfiguration.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/aliyunhttps/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/阿里云上搭建https服务/pom.xml">
+    <entry file="file://$PROJECT_DIR$/jpaProject/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
-          <folding>
-            <element signature="n#dependencies#0;n#project#0;n#!!top" />
-          </folding>
+        <state relative-caret-position="594">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/阿里云上搭建https服务/src/main/java/https资料/HttpsConfiguration.java">
+    <entry file="file://$PROJECT_DIR$/springboot打为jar包之后能够访问jsp的pom为">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
-          <folding>
-            <element signature="e#869#1394#0" expanded="true" />
-            <element signature="e#1393#1394#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jwt/src/main/java/com/zy/jwt/utils/JwtUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/阿里云搭建https springboot版/src/main/java/com/example/demo/阿里云配置https/HttpsConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="50" column="83" selection-start-line="50" selection-start-column="83" selection-end-line="50" selection-end-column="83" />
-          <folding>
-            <element signature="e#870#1377#0" expanded="true" />
-            <element signature="e#1376#1377#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="2113">
+          <caret line="248" lean-forward="true" selection-start-line="248" selection-end-line="248" />
         </state>
       </provider>
     </entry>
@@ -1384,7 +1342,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Web|spring1.0</last-edited>
+          <last-edited>design</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

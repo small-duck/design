@@ -27,6 +27,7 @@
         <module>vuejs</module>
         <module>aliyunhttps</module>
         <module>阿里云上搭建https服务</module>
+        <module>jpaProject</module>
     </modules>
 
     <properties>
